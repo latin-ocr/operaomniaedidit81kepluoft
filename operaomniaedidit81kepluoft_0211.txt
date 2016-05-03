@@ -1,0 +1,69 @@
+ 
+
+Ι. Mathematica. 197
+
+Quid proprium habent maximi respectu situs? 1. Maximus transit per
+“ polos eorum, ad quos ipse rectus est, secatque eos bifariam. Hoc non facit
+minor. 2. Maximi inter se recti per mutuos polos transeunt axisque unius
+‘competit in planitiem alterius. 3. Maximi utcunque inter se inclinati secant
+⁷ se mutuo bifariam3 linea connectens sectiones transit per centrum. 4. Maxi-
+mus per polos duorum maximorum ductus secat eos in quadrantcS, a mutua
+eorum sectione inceptos,
+
+Quaenam oritur eirca maximos peculiaris operatio? Doctrina triangulo-
+rum sphaericorum seu ratio computandi illa, quae sunt ad motum primum ex-
+’ plicandum necessaria.
+
+Quid est triangulum sphaericum? Figura in superficie sphaerici seu
+globi, constituta ex tribus arcubus trium circulorum maximorum.
+
+Quot considerantur res in unoquolibet triangulo? Sex: tria latera seu
+’ arcus et tres anguli.
+
+Quae est mensura laterum seu arcuum? Circulus ipse maximus cum sua
+g divisione in partes 360 et partis in 60 scrupula, scrupuli in 60 secunda etc.
+
+Quaeritur enim, arcus quilibet quota pars sit circuli sui, quia omnes maximi
+,sunt inter se aequaleS‚ et effertur proportio cognita usitate in numeris divi—
+sionis jam dictae.
+
+Et quid metitur angulum in triangulo sphaerico? Quemlibet angulum
+metitur arcus circuli maximi per polos circulorum angulum constituentium ducti,
+qui arcus ab ipsis circulis angulum constituentibus intercipitur.
+
+Quot sunt genera triangulorum sphaericorum‘? Quaedam sunt rectangula,
+quaedam obliquangula. Illa, cum unus angulorum ad minimum est rectUS,
+haec, cnm omnes tres sunt obliqui.
+
+Quomodo aliter dividuntur? Quaedam sunt primaria, quaedam sccun-
+= daria, quae ει prodiga dici possent propter excessum ‘vel binorum laterum
+supra quadrantes circuli vel binorum angulorum supra rectos, quae ex prima-
+riis intelliguntur, quippe quibus semper associantur.
+
+Circa quae igitur versatur astronomica operatio? Circa primaria,·quae
+put non plura uno latere aut nulla excedentia habent.
+
+Quidnam est ejus opus circa illa‘? Hoc est ejus opuS, ut ex tribus qui-
+buscunque datis, quae sunt in uno triangu10‚ reliqua tria incognita investiget,
+quo nomine varii usus existunt.
+
+Quibus regulis tam varii casus comprehendi ει expediri possunt? Non
+’ sufficit una regula omnibus casibus, sunt tamen aliquae facilioreS‚ quac pluri-
+ἕ bus casibus serviunt, quarum prima et brevissima est, quod sicut se habent
+ad invicem sinus recti laterum, sic etiam se habent ad invicem sinus angu-
+,lorum oppositorum, et permutatim: ut sinus unius lateris ad sinum anguli
+oppositi, ita sinus alterius ad sui oppositi anguli sinum ct conversim utrumque.
+Haec regula utilis est in casibus his: quando latus quaeritur ex angulo op-
+posito vel angulus cx latere opposit0‚ et utrimque ex aliis duobus inter se
+
+mutuo oppositis.
+’ Secunda regula: quando latus quaeritur, nec est aliud cognitum practer
+
+tres angulos, aut quando angulus quaeritur, nec aliud quam tria latera sunt
+
+praecognita, tunc processus est bic: - (Deest.)
+Tertia regula: qnando neutrum horum locum habet, tunc videndum, si
+
+¹triangulum sit rectangulum an secus. Nam si est obliquangulum‚ perpendicu-
+laris ex uno angulorum, pro re nata electo, in latus oppositum, continuatum
+

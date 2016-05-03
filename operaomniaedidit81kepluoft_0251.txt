@@ -1,0 +1,65 @@
+111. Astronomica. 237 ’
+
+nota, videri quidem posse absurdum, sectionem seu medium aequinoctium ae-
+qualiter incedere per mediam eclipticam, cum centrum axis aequaliter volvatur
+per veram. At non est absurdum. Nam dum supra posui, polum Terrae sub
+circulo polari eirca mediam eclipticam sito volvi (quae est inclinationis trans-
+latio), videor necessitatem hujus sequelae induxisse. Si enim aequaliter circa
+polum mediae volvitur, inaequaliter igitur circa polum verae. Causa volu-
+tionis est fortassis eadem, ut in planetis causa motus nodorum et apogaeo-
+rum, ut se. ex puncto successu seculorum fiat circulus Nam cum figurata esse
+conveniat omnia, motus lineae rationem habeat, duratio ipsa motui figuram
+conciliat, plane ut in physicis motus durando speciem praebet subsistentiae,
+quae ei unius respectu momenti nulla inest. Ita et animalium propagatio
+facit ad speciei conservationem. Ita quod unus non potest, mutuis operis
+efficimus, cum ita condita sit humana mens, ut rerum notitiam capiat. Quod
+igitur solitariae est impossibile, seculorum traditionibus tandem superatur.
+Omnium igitur quasi una mens est, cujus partem Ptolemaeus, meliorem nos
+possidemus·
+
+ 
+
+Prima rudimenta conatuum Kepleri constituendae leqz's de areis in planetarum motibus.
+
+methodus construendi aequationcs et distantias
+
+ad singulos gradus anomaliae excentri integros,
+pro ratione anni exploranda.
+
+Multiplicentur initio sinus omnes in eccentricitatem abjectis 5 ultimis
+vel 7, prout fueris operatus. Producti dicantur eccentricitas angulorum suorum.
+Sit anomalia eccentri 0, 90, 180, 270. Ergo aequatio est nihil in Ο,
+180, in 90, 270 aequatio elicitur per totam eccentricitatem. Distantiae sunt
+in 90, 270 radius, in 0 radius auctus tota eceentricitate, in 180 diminutus
+tota eccentricitate.
+359. 89. 179. 269.
+
+Sit anomalia eccentri 1. 91. 181. 271. Ad radium adde et aufer
+eccentricitatem anguli 89; per hos divide eccentricitatem anguli 1. Habes
+aequationum ad 1, 359 et 179, 181 tangentes, quibus aequationum arcubus
+excerpe convenientes secantes, Hos secantes iteruin in eccentricitatem anguli
+89 multiplica et abjectis ultimis quod relinquitur illic adde suo secanti, hic
+adime. Prodeunt distantiae illic gr. 1, 359, hic gr. 179, 181.
+
+Vicissim ad radium addc et auser eccentricitatem anguli 1, per hos di-
+vide eecentricitatem anguli 89 et abjectis ultimis restant tangentes aequatio-
+num ad 89, 271 et 91, 269. His aequationum arcubus excerpe convenientes
+secantes et hos iterum in eccentricitatem anguli 1 multiplica et abjectis ulti-
+mis, quod relinquitur illic adde, hic adime secanti, prodit distantia illic gr.
+89, 271, hic 91, 269.
+
+Aliter doceris in folio alio per aream trianguli, ubi notatum, quod si
+duplicetur angulus aequationis, plane insensibile peccemus in Sole. Vide nunc
+
+’ 5.. et in Mercurio. Et assume ejus aequationem eccentri gr 10,
+3)* tang. 1763268 (eccentricitas). Ergo triangulum maximum 8316'540000000
+
+ 
+
+Porro areae circuli ex Adriano pars ξε- 872664626. . ..
+
+ 
+
+Differentia. 8909374.
+Sed hanc differentiam efficiunt gradus ultimi et c 8⁰ vix erit dimidium.
+

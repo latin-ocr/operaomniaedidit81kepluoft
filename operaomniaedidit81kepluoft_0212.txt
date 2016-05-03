@@ -1,0 +1,54 @@
+198 Collectanea ex codicibus Pulkoviensibus.
+
+si necesse est, demittitur: quo pacto obliquangulum transformatur in 2 rectan- ¹
+gula talia, ut unum eorum habeat praeter rectum angulum duo cognita, re· ·
+
+liquum beneficio hujus nanciscatur in prima operatione etiam duo cognita prae-
+ter rectum. Ita duabus pro una operationibus investigatur quaesitum.
+
+Unde scitur triangulum esse obliquangulum vel rectangnlum? Rectan- -’
+gula ut plurimum ex constructione, hoc est ex cognito angulo recto cognos- ’
+
+cuntur. Si vero ex tribus incognitis angulus unus sit, de quo dubitetur, quod
+raro fit, varie discernendum erit ex ejus trianguli cognitiS. Nam si latus eis
+oppositum majus est quadrante, angulus oppositus erit obtusus, nec poterit
+primarium triangulum habere rectum angulum. At si tria latera cognita om-
+nia sunt infra quadrantem, triangulum est acutangulum. ‚
+
+Quomodo rectanguli sphaerici latera nominantur? Recentiores distinc- ’
+
+tionis causa latus oppositum recto angulo appellant basin, non vero latus; ·
+
+quae vero rectum formant, simpliciter latera appellantur.
+Quot igitur oriuntur formae investigandi incognita rectanguli‘? Sedecim.
+
+Nam si basis investiganda est, formae sunt quatuor; si latuS, formae se132si .
+
+anguluS, formae itidem sex..
+
+Basis enim arguitur 1. vel ex utroque latere, 2. vel ex latere et an· ·*
+gulo oppositis, 3. vel ex latere et angulo non oppositis, 4. vel ex utroque
+an ulo, 2
+g Et latus arguitur 5. vel ex basi et latere reliquo, 6. vel ex basi et «τ
+angulo sibi opposit0, 7. vel ex basi et angulo sibi nen opposit0, 8. vel ex
+latere reliquo et angulo oppositis, 9. vel ex latere reliquo et angulo non op· J
+positis3 10. vel ex utroque angulo, f¹
+
+Angulus vero arguitur 11. vel ex basi et latere sibi opposito, 12. vel '
+ex basi et latere sibi non opposit0, 13. vel ex basi et angulo reliquo, 14. vel ³
+
+ex latere et angulo oppositis, 15. vel ex latere et angulo non oppositis, ν
+
+16. vel ex utroque latere.
+
+Et intellige, ubique rectum angulum esse tertium ex datis·
+
+Cum casu sexto latus ex angulo opposito et basi quaeritur, quae tunc
+est regula? Hic casus cadit in generalem oppositionis laterum et angulorum.‚7.·'
+Sed est in rectangnlo brevior via. Nam angulus et basis adduntur, subtra- l
+huntur invicem. Quodsi aggregatum est minus quadrante, sinus complementi
+‚aggregati aufertur a sinu complementi differentiae. Sin majus est aggregatum j
+quadrante, sinus complementi aggregati additur ad sinum complementi diffe-
+rentiae. Tunc dimidium illic residui, hic summae est sinus lateris investi· .
+gandi. Clariora haec sunt in synopsi. (Nil sequitur.)
+

@@ -1,0 +1,73 @@
+162 Collectanea ex codicibus Pulkoviensibus.
+
+Pares bases inde judicantur; addunt enim' sni dimidium. Ergo de 4 fiat
+duplum 8, adde dimidium 4, h. e. 2, fiunt 10, trigonus de 4.
+
+Bini proximi numeri efficiunt quadratum, cujus radix est basis minoris,
+Quadratus autern ille fit impar vel par alternis. Causa haec est, quia hi trian-
+gulares vere non sunt ι’σοπλευροι, sed rectanguli ἱσοσκελεις, possunt igitur ita
+componi bini, ut in uno sit diameter, in reliquo non. Tunc igitur fit quadratum.
+
+Jam vide mihi, quod 3 et 7, numeri primi, constituunt periectos 6, 28
+proportionibus 2, 4, an igitur et reliqui primi perfectos? Non.
+
+An forte, quoties proportio prioris dupla est‘? Non. An forte, quoties
+basis primi numeri et proportio prioris multiplex concurrunt?
+
+A 23 est 276, prop. 12. 276 1 An quoties proportio cst prioris quadrata?
+
+Non. 138 2 Prop. Basis. Triang,
+92 3 2. 8. 6
+69 4 Ξ 4. 7. 28
+46 6 4 16. 31. 496
+64. 127. 8128. Non.
+An quoties basis primi numeri et proportio prioris dupla concurrit?
+PrOP. Basis. Τῆς. Nam si basis cst ex compositis, plurimi fient multi-
+1. 1. 1. plices. quorum summa superabit tandem numerum.
+2. 3. 6. In hoc ordine basis semper colligitur cx multiplici-
+4. 7. 28. bus proportionis ct integra. Ratio, quia basis est dup-
+8. 15. non primus. lum proportionis, uno minus.
+16. 31. 496.
+32. 63. non primus.
+64. 127. 8128.
+128. 255. non primuS.
+256. 511.
+512. 1023.
+
+1024. 2047. 209'1'5128.
+
+Itaque perfectum talem esse oportet, cujus partes multiplices proportio· · ³
+
+nis aequent basin, quod non fit nisi in proportione dupla, propter conditionem
+
+numeri triangularis. Vel talem esse oportet, ut si scribatur, medius sit primus ,
+et impar. (Totus et partes excepta unitate: 6, 3, 22 28, 14, 7, 4, 2.). ,
+
+Debent autem semper impari numero esse partes hae.
+
+Sed nondum arctissime constricti persecti3 nam et 11 etc. possunt etiam
+multiplicari primi. Igitur adde, medio minorem proxime debere esse unitate
+majorem dimidio medii. Sic n. habebis primurn, qui aequat partes multi-
+plices proxime minoris. (2047 >< 1024 = 2096128 triangularis perfectus est.)
+Non est igitur verum, quod dixerunt, in quolibet decuplo augmento unum
+esse perfectum. Nam qui 5 vel 6 notis scribatur, nullus est.
+
+Sed quare perfectus nullus est, nisi in proportione dupla? Primum ipsa
+
+proportio dupla et impermixta semper quam proxime est perfecta. Semper
+
+nempe partes multiplices progressione geometrica collec- j}— —8- ,12- Ξ
+tae summam faciunt unitate minorem toto. 2 4 8 16
+
+Hoc sic posim, quaeritur, quomodo unitas illa ad· ‚¹- Ξ ζ 2
+jungi posset, ut in 28, 14, 7; 4, 2, 1⁶? responsio: si 3 -— 1 2
+28 divideremus per 2 continue, fierent 14, 7, δὲ, 1Ξ, ⁷ 1—5 1
+033 summa partium 27ὲ, vel partes 3 posteriores fie- Ξῖ
+
+rent δὲ, def. g, nam debebant esse 7. Igitur pro iis si sumantur 4, 2, 1
+
+habemus 7. Nam in 4 plus est ὲ, in 2, ὲ, in 1, 3¹3, summa non integra'
+
+unitas. Sic in tota serie 1024, 512 . . . usqu& in 1 non integra unitas plus
+colligitur ac si 2047 pergeremus per 2 usque ad 1 dividere. Inde igitur cst,
+

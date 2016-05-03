@@ -1,0 +1,57 @@
+256 Colleetanea ex codicibus Pulkoviensibus.
+
+Haec ideo, quia scrupula quidem detecta multiplicanda sunt in quamcunque
+plenarum aequationum‚ rectangulum vero detectum addendum factis vel sub-
+trahendum, vel si factus sit minor, subtrahitur.
+
+‘tubingae majo 1621. De intimo argumenti circulo.
+
+Cum ego definiam argumentum menstruum sic, ut major semper arcus
+sit in descendenti Solis semicircuIO, minor medio in ascendenti: oportet igitur
+cuique gradui integro anomaliae primo aequatae applicare non gradum inte-
+grum argumenti, sed scrupularium ex additione partis aequationis opticae, velut
+ex anomalia eccentri. Quare qui sunt logarithmi in circulo intimo, repraesen-
+tantes scrupula graduum integrorum, illa non aliter valent, nisi Luna fuerit
+vel in copulis vel in apsidibus solutae. His enim casibus nihil accedit loco
+Lunae de anomaliae eccentri aequatione optica. Ceteris in locis Lunae sem-
+per essct addendum intimi circuli gradibus subintellectis in descendenti solutae,
+semper auferendum in ascendenti, dimidium aequationis ex volubili circulo,
+Lubet explorare, quantus futurus sit error, si non fiat quod oportebat. Sit
+mensis plenus: tunc Luna in quadris versante nihil efficitur. Nam etsi pluri-
+mum ibi addendum esset 2⁰ 30¹, at sinus 900 et 870 30¹ parum differunt.
+Nam 95 est pars 10531· de 100000, cum sint minuta 150 in aequatione, ita-
+que septima forte pars minuti seu 9¹¹ hic peccatur. In 450 debebant acce-
+dere 1⁰ 48¹. Hic peccatur 3‘ 30⁰ circiter. Puto hanc summam esse quan-
+
+titatem. Nam anterius plus quidem differunt sinus non multo, minor vero est -
+aequatio mult0, posterius minus differunt sinus multo, augetur aequatio non -
+
+multo, Sit nota mensis 450, ergo Q in octante 450, debuit per 47⁰ 30¹
+excerpi aequatio. Tunc scrupula menstrua sunt log. 34700. At scrupula ar-
+gumenti pro 34700 debebant esse 69400 - 10 15¹ δ”, 30500 -Ι- 34700 =
+65200 — 10 18‘ 12“‚ diff. 3‘ 6¹⁴. Hic iterum cst diff. 3¹ 6“ circiter, quando
+particula exsors 3. 17 S3 hic igitur omissa particula exsors corrigit errorem.
+
+Lincii 19. Novemb. 1621.
+
+Pro confectione ephemeridis computetur dist. O ab ap. Q ut hactenus,
+et excerpe logarithmum et exsortem, tum Q a Θ ut hactenus, et per hanc
+variatio ex sua tabula. Inde auferatur haec ab illo, restat anomalia coae-
+quata primo, cum hac excerpe ex sua tabula mutationem dist. Q a Θ pro
+argumento menstruo, sumto dimidio differentiae. Cum argumento excerpe lo-
+garithmum. Duo logaritbmi inter se additi efficiunt logarithmum aequationis
+menstruae in sc. et gr. anomaliae mediae, cui adde particulam exsortem vel
+aufer. Praestaret illa exhiberi in sc. et horis, sed tabella in medio rotulae
+jam est saeta. Et 13⁰ 3¹ 54¹¹ valent horas 24, vel 32¹ 40¹¹ valent horam.
+Et quia superest operatio reductionis ad meridiem, etiamsi haberetur statim
+hora ex tabella, ideo sic argumentabimur: 130 3‘ 541‘ dat diurnum praesen-
+tem, quid compositum praesens? (Log. 60800 perpetuus.) —- Hoc pro usu
+rotulae, donec in ea anomaliae mediae gradus et minuta in meditullio, ut et
+in particula exsorte‚ mutentur in horas et scrupula. Sine rotula si velis
+operari, strue 2 tabellaS, alteram particulae exsortis in horae minutis et secun-⁴
+dis ad singulos gradus distantiae Q a G), alteram valoris logaritbmi ad sin-
+gula minuta horae aequationis menstruae. Nam si 13. 3. 54 valent 24, quid
+2. 30‘? colligimus horas 4. 36, minuta ergo 276.
+
+ 
+

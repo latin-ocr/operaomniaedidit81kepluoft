@@ -1,0 +1,78 @@
+’ 111. Astronomica. 233
+
+distantia ad scrupulum visionis, sic distantia longior ad scrupulum mediocris
+distantiae. Nam ut ΟΕ vel BF ad ED, sic CF ad FG3 at simul etiam, ut
+BF ad FG, sic CF ad IH ex hypothesi: ergo permixtim ut BF ad CF, sie
+
+a ΕΙ) ad FG, et ut BF ad CF, sic FG ad IH. Haec invicta demonstratio est,
+
+continue proportionales esse ΕΙ), FG, IH. Superest hoc saltem, ut quaeratur,
+quid varietur, ubi multas hujusmodi distantias conjunxerimus, Nam IH qui-
+dem hic assumo, non ut quilibet sinus esse possit, sed pro mensura temporie,
+quae non est in sinu, sed in areu. Nisi quis dicat, etiam ex FG et ΕΙ)
+fieri sinus et sic tolli hanc turbam, sed illi vicissim respondetur, quod non sint
+sinus in proportione arcuum.
+
+Colligantur aliquot numeri proportionaleS, ut appareat, an proportionales
+maneant et summae, si medium proportionale habet eandem semper dimen-
+sionem.
+
+30. 60. 120.
+40. 60. 90.
+45. 60. 80.
+48. 60. 75.
+50. 60. 72.
+213. 300. 437.
+ᾙΞΩᾎ Vides non manere proportionem eandem in aliqua collecta summa.
+
+An igitur horum ut graduum sinus? 3⁰ 33‘ Ι 50 0¹ l 7017
+619196 871557 1267761
+
+Ξζὲῗζζ = 122... Minime!
+
+ 
+
+Considerandum, si ita est, ut semper sint proportionaleS, quomodo fieri
+possit, ut ex omnibus junctis restituatur circulus? Resp. ¹Verum id est tan-
+
+l· tum, ubi circulus in infinita puncta dividitur, ubi medium arithmeticum et
+
+ 
+
+geometricum coincidunt.
+
+Videtur consilium nullum suppetere, quomodo ex ἀκρονυχιοις explorari
+possit negotium. Rectius fortasse agemus, ut in ζῤ, si ex aliquot distantiis
+, computamus circulum ejusque apogaeum. Sed requirit cognitionem distantia-
+r mm Terrae.
+
+Considerandum, quare interdum valeat acervatio, interdum non‘?
+
+Ut 60 dat 120, quid 30¹?— 60
+40?- 80
+45⁴?- 90
+
+n D
+
+Ι . 180 dat 360 quid Mor-230.
+s‘. Ratio, quia hic duo termini manent iidem et est proportio disjuncta.
+,ρξ’ An et illa proportio disjungi possit, si diceremus: Arcus temporis
+.''1'n‘0nsurans summam distantiarum dat tantum arcum eccen-
+ttici, quid arcus eccentrici‘?
+
+Consilium summum et extremum.
+
+Construe tabulam aequationis pro quolibet planeta ad vicinos centena-
+rios eccentricitatis, ut pro Sole ad 1800, 1900, 2000, 2100, 2200, 2300, 2400,
+pro Marte ad 9000, 9100, 9200, 9300, 9400, et applica situs ἀκρονυχιες.
+
+Quaere super hac re compendium, an non ex una tabella possint facili
+opere derivari aliae?
+
+Prius in simplici eccentricitate.
+
+Ut AB (fig. 9.) eecentricitas tota ad AC aliam totam et majorem, sic BF
+sinus partialis ad CG sinum partialis maj0ris. Ceterum si sint tangentes, arcus
+
+ 
+

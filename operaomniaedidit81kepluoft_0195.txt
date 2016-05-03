@@ -1,0 +1,72 @@
+Ι. Mathematica. 181
+
+’. cuboctae'dri trinis angulis ejus triangulum describunt. Hujus mira est proprie-
+-- tas, qnod anguli introversi complent locum et basibus repraesentant rhombo-
+
+cnbum3 dicatur cothurnus,
+
+w In rhombo dodecae‘drico non dubito, multa oriri, prima ostrea rhombo-
+, dodecae‘drica triginta conchis, inde echinus rhombododecae‘dricus obtusior,
+
+quando confluunt quini rhombi quinorum angulorum, facientium hiatum, ob-
+
+* struentes versus obtusum. Tertio quini remotiores rhombi, infissi quinis acutis
+
+circa unum acutum. Hic erit echinus alter rhombododecae‘dricus angulorum
+quinquelinearium acutissimorum.
+
+Cum mista continuantur, finnt ea nexa, quae rhombis substernuntur, sc.
+ex cuboctae‘dro cuboctae'dron nexum, ex icosidodecae‘dro dodecaejdron icosa-
+e‘dro nexum. Procul dubio et alia. ·
+
+Cum curta continuantur, fiunt latentia alterum in alter03 dicantur testu-
+dines marinae. Latet id, unde est nomen. Sic curtum tetraedrum continua-
+tum ostendit tetrae‘drum in tetrae‘dro, cubus curtus continua-tus, latens cubus
+in octaedrO, curtum octaedron continuatum, latens octaedron in cub0, curtum
+dodecae‘dron continuatum, latens dodecae’dron in icosae'dm.
+
+constructio cothurni et demonstratio, Rhombict cubi pla-
+norum dimetientes longiores, quae sunt icosae‘dri latera, coe‘unt angulis rectis,
+quae quidem contraposita sunt. Cothurni angulorum latera quaterna Jacent
+in eadem planitie et bina fiunt opposita coinciduntque in unam rectam et in
+idem planum cum rhomborum subJectorum dimetientibus longioribus, Nam
+quia bini rhombi oppositi lateribus aequaliter utrinque abnuunt, continuata
+igitur rhombi plana sacient ex punem, quo coe'unt rhombi, lineam unam utrin-
+que et aequaliter ad subjectos illi rhombos ductam. Habetur affectio laterum
+anguli, quae sunt super diametro longiore, sectio illorum angulus rectus est.
+Brevium igitur laterum super diametro breviore series sequitur.
+
+De mistis sive concisis. Miscentur similia. Omnia sunt quadri-
+laterangula. Mista ex cubo et octaedro respondet rhombico hujus generis,
+
+Sicut se habet inscriptus cubo ad tangentem media puncta laterum cubi,
+
+. sic se habet inscriptus quadratis ad circumscriptum. At tangens media latera
+ι, habet eundem radium cum circum, qui circumscribitur quadrato cubico, cujus
+
+⁸ diameter est diagonus plani cubici, sc. 163299323 radius ergo 8164966. Ut
+ὲ 8164966 ad 5773503 sic 10000000 ad 7071068, quantus est rad-ius in-
+' scripti quadrato octaedri. Sicut se habet inscriptus octae‘dm, qui tangit puncta
+
+3 media laterum, ad inscriptum, qni tangit centra planorum, ita se habet circum-
+
+scriptus huic ad inscriptum, qui tangit centra triangulorum. At qui tangit⁴ in
+octae'dro media puncta laterum, est idem qui inscribitur quadrato, quod secat
+medium octaedrum et aequatur semilateri octaedri. Ergo ut 7071068 ad
+5773503 sic 10000000 ad 8164966, quantus est, qui circuio cubi circurn-
+scribitur. Et si inscriptus triangulis fiat 10000000, fiet inscriptus quadrangulis
+8660254, ut sit proportio qualis circumscripti rhombicis octaedricis ad circum-
+scriptum rhombicis cubicis,
+
+· Mista ex dodecac'dro et icosae'drO. Ut tangens media puncta
+laterum dodecae'dri ad inscriptum dodecac‘drm sic circumscriptus huic ad in-
+scriptum quinquangulis. Ergo ut 9341723 ad 7946546 sic 1000000ῐο ad
+
+· ε 8507096, quantus est et qui plana rhombi tangit. Et in genere eadem videtur
+
+ 
+
+dimensio. Nam fit crux in punctis mediorum laterum utriusque sociorum.
+, Jam multangulum porrigit angulos sursum et paucangulum adhuc superius.
+Rursum ut tangentes media latera icosaedri ad tangentem centra piano-
+

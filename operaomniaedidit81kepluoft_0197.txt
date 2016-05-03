@@ -1,0 +1,82 @@
+ῃ,
+
+” vel si potentia mediae aequet potentiam minimae
+
+ 
+
+1. Mathematica, 183
+
+figurativam ut subtensus pentagonios ad latus pentagoni. Sed deest mihi
+
+χ adhuc probatio, quod quae sub angulo sit aequalis illis in planis. Id tum
+erit perfectum, si probaveriS, eam, quae terminos portionum majoris et minoris
+¹* conterminarum connectit in plano, posse duplum minoris; nam quae est sub
+. angulo, potest duplum minoris·
+
+In triangulo ABG aequilatero D, E sint puncta sectionum, portiones
+majores AD, EC, minores BD, ΑΕ. Ducantur ex E et D ad BC parallelae
+
+= EF, ΒΘ et connectantur FG, DE. Erunt ergo ΑΒΕ, ADG regularia et aequi-
+
+latera triangula, quare DA: AF = DG: FE3 sunt
+
+³ itaque in continua proportione ΒΘ, ΘΕ, vel FD, ΡΨ· ³·
+et quadrangulum DFEG circulo inscriptile· Ergo B
+
+, quadratum DE vel ΡΘ, rectangulum nempe dia-
+metrorum, aequale DF. GE (= DF2) -l- ΒΘ. FE. Ν
+
+Si ergo probaveris 2 ΙΞῈ2 = FE. DG -Ι- FD2, con-
+fecta res est3 vel quod idem est, si mediae poten-
+tiae duplum aequet potentiam minimae, poten-
+tiam mediae‚ et reetangulum ex minima et media,
+
+  
+
+et rectangulum ex minima et media, vel si potentia
+
+mediae aequet rectangulum ex minima et maxima. A Ε G C
+
+, Id per se verum, si reeta secetur proportionaliter, quod ex tota in minorem
+,partem aequum esse ei, quod ex media quadratum.
+
+Ergo sic demonstretur: eum reeta AB secta sit proportionaliter in D,
+
+’ recta vero AC in E, constituatur ergo AG = AD et AF = ΑΕ et connec-
+
+tantur ΒΘ, FG, ED, FE. Cum ergo pars minor AF de maj0ri AD sit subtracta
+
+* et ΑΕ de AG, resid'ua FD et EG erunt iterum minores totis AG, AD, sectis
+
+in E et F. Sed AE = EF et ΑΘ = AD = DG, nam ACB est aequilaterum,
+
+¹ quare et EAD -ε GAF propter communem angulum A et bina eirea illum latera
+
+ex hypothesi aequalia. Quare FD vel ΕΘ est minor, FE major, GD tota.
+Et cum aequilatera et aequiangula sint EAD, FAG, bases ergo ΕΙ) ·.-- FG.
+Cumque GEF, DFE sint residua aequalium AGF, ΑΒΕ, erunt aequalia. Est
+vero etiam EGD = FDG, sio in quadrangulo EFDG bini ad idem latus ae-
+quales: igitur in circulo inscriptile quadrangulum. Quod igitur ex ΡΘ in El)
+aequale, h. e. quadratum alterutriuS, aequale est junctis ex EF, DG et EG,
+FD, At quod ex EF in GD aequale est quadrato EF et rectangulo ex
+FB, EG (residuo FE ad AG), et quod ex ΕΘ in FD est quadratum alter-
+utrius. Ergo ED² z ΕΘ2 -l- EF'2 -l- EF >< EG, h. e. z AE2 -l- EG? -l- ΑΕ.
+ΕΘ. Sed ΕΘ2 -Ι- AE. EG = EG. GA. Ergo ED‘2 = ΑΕ2 -l- EG. GA. At
+AE² = EG. GA, ergo ED2 ·.-- 2 AE2. Sed et linea, quae occulte sub solido
+angulo ducitur, aequat ΑΕ partem minorem de toto latere bis, cum contra·-
+venientium laterum in octaedro angulus sit rectus et linea proposita connectat
+extremitates minorum partium. Ergo aequales sunt omnes lineae sicque in oc-
+
+} ta'edro descriptum icosae'dron.
+
+coagulum.
+Sphaericum est loco primo. Id tria habet: punctum, superficiem et ae-
+
+’ qualitatem diastematis. Punctum medium unum est pendetque ejus unitas ex
+
+definitione superficiei et diastematis. Superficies se ipsa una> et finita est, quia
+
+² in se redit, definitur puncto et diastemate. Diastema est veluti proporti0, est
+
+enim collatio puncti ad superficiem. Ejus unitas in aequalitate consistit, ut
+

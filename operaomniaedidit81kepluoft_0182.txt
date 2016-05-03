@@ -1,0 +1,73 @@
+168 Collectanea ex codicibus Pulkoviensibus.
+
+Ratio superficierum quadratarum est dupla rationis linearum. Angulorum
+mensura ordinaria est rectus, saepe etiarn alii, linearum nulla per se, quia
+lineae non σχηματιζονται. Planorum mensura quadratum, solidorum -— cubus,
+
+Arithmeticae proprium nihil est quam addere et subtrahere. Jam multi—
+plicare pertinet adparallelogramma, dividere itidem. Addere et subtrahere
+
+est ¹numerare per puncta, multiplicare et dividere est numerare per quadrangula. ⁴.
+Haec iterum sequuntur multa tentamina, sine ordine se invicem subsequentia, ’ ,ζ’
+
+nt: „Deliberatio de iis, quae et quo ordine in libro ΙΙΙ. tractanda sint.“ „Oportet
+percurrere universum Euclidem et singulas considerare propositiones“ etc. etc. Novo
+capto impetu sequentem paragraphum inscripsit Keplerus3 „De numeris proportionaliter
+sectis“, post paucas vero lineas rem imperfectam relinquens, adscripsit: „Haec alibi“‚
+et quasi eandem tractaret rem, pergit: Jam illud incidit, posse triangulos rectan-
+
+gulos rationales multo facilius investigari. Inde redit ad numerorum theoriam his ’
+
+propositionibus e prioribus repetitis:
+
+1) Unitas est impar. 2) Duae unitates parem faciunt. 3) Binarius est .
+par (ex 2.). 4) Unitas ad parem apposita facit imparem. 5) Ternarins est ³
+impar (ex 4.). 6) Unitas addita impari facit parem (ex 1, 2.). 7) Numeri ἵ
+ordine se excedunt unitate. 8) Numeri naturalis ordinis sunt alternis pares, -= ’²
+
+impares. 9) Numerus toties sumtus, quot sunt in altero numero unitates, ’
+
+dicitur facere cum illo numerum. 10) Impar additus pari sacit imparem (ex 4.). 's'
+11) ⁴Impar ad imparem additus facit parem (ex 6.). 12) Binarius pari additus
+
+facit parem (ex 2-4, 6.). 13) Omnis par tot habet aequales partes, quot
+
+sunt in binario unitates (ex 2. 3.). 14) Par ad parem additus facit parem 2*
+
+(12. 13.). 15) Factus a pari et impari par est (11. 14.). 16) Factus a
+
+pari et pari par est (14.). 17) Factus ab imparibus duobus est impar (11.
+10.). 18) Quadrati parium sunt pares (14.). 19) Quadrati imparium, impares ·
+(17.) 20) In serie quadratorum sunt alternis par, impar (18. 19.). 21) Qua· ¹
+dratorum excessus dicitur gnomon (ex Geometria). 22) Gnomon ambit latera ἶ
+(ex Geom.). 23) Quadratorum proximorum gnomon est duplum lateris vel
+radicis plus unitate (22.) 24) proximorum quadratorum excessus habet im· · Ξ
+
+pares (3. 16. 15.) 25) Cum idem additur duobus, eadem manet distantia.
+26) Dupla numerorum in ordine naturali distant binario (7. 24.) 27) Ex-
+cessus surgunt binario (26. 25. 23.). 28) Impares ordine naturali surgunt bi-
+nario (26. 25. 4.). 29) Si quadrata numerorum omnium seriei naturalis ordinen- *-
+tur, gnomones seu differentiae erunt series naturalis imparium. 30) Primorum ἑ
+proximorum quadratorum differentia est ternatius (23.).
+Ergo
+3. 5. 7. 9. 11. 13. 15. 17. 19. 21. 23. 25
+1. 4. 9. 16. 25. 36. 49. 64. 81. 100. 121. 144.
+
+ 
+
+Hactenus eadem quae supra, quibus subjunge, quae illic sunt ab 18 in τ ,
+
+28. Jam pro inventione omnium quadratorum sive quaesitione radicis nota
+tabulam hanc.
+
+- 1. 2. 3. 4. 5. 6. 7. 8.9. 10. 11. 12. 13. 14. 15.16. 17. 18.19. 20. 21.22. 23.24. 25
+
+1. 4. 9. 16. 25
+3. 5. 7. 9.
+2. 2. 2.
+
+Haec quidem ex prioribus manifesta. Cum ergo inter primum par 4 et .
+impar 9 intersit gnomon 5, inter 9 et 16 gnomon 7, summa ergo est 12 inter
+4 et 16, paria proxima, at a 0 ad 4 fuit 4, differentia 4 et 12 est 8, sur-
+gunt ergo quadrata paria quaternariorum multiplicibus, seu parium quadrato· ·
+

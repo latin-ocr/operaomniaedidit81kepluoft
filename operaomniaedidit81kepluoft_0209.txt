@@ -1,0 +1,61 @@
+1. Mathematica. 195
+
+’ DCA, KOA, recta nempe, ad ductum lateris KI, DF. Ergo anguli recti. Hine
+= affirmatur 21 et 36 in thesi et hypothesi, et 37 et 38 confirmatur magis 46.
+46. Omnis angulus solidus 2 rectis planis et uno vario comprehensus
+est, tota pars ·de 2 rectis solidiS, quota pars de 2 rectis planis est ille varius,
+47. Si 24. verum est, erit et 35. verum.
+Ponatur jam verum esse. Ergo FGI et DCK efficerent duos rectos, at
+FGI et FBI duos efficiunt rectOS, ergo FBI et DCK essent aequaleS, sed cru-
+rum inaequalium. Eodem modo FGI et DAK proderentur aequaleS‚ sed iterum
+, crurum inaequalium. Illic enim scalenum, hic isosceles est triangulum.
+Si hoc, quilibet angulus aequaretur suo lateri opposito, At hoc falsum,
+crgo etiam priora omnia.
+ti. 48. Residua quadrilatera ex tribus tantummodo triangulis sunt compo-
+, sita, sic ut unum in binis quadrilateris reperiatur.
+’ 49. Omnia illa tria in uno semicirculo sunt.
+50. An ut latus triplex solidum, seu commissurarum ad latus alterum
+τ circa rectum, quod habet aequale aliud in primis 3 quadrilateris, sic in reli-
+1 quis quadrilateris diagonius triplex ad diagonios reliquoS, ratione semper op-
+, posita et vicissim?
+Tribus ergo datis lateribus dantur tres subtensae ejusque rectilinei trian-
+J= guli per computationem facilem. Excerpuntur etiam semilaterum tangentes,
+'¹ 'secantes et sinus complementorum. Ut ergo sin. co'mpl. primi lateris ad se-
+, ’ωἰεεθω subtensam tertii lateris, ita secans primi semilateris ad unam extre-
+marum, secans secundi semilateris ad alteram. ‘Nihil est. Nisi compendiose
+ἓ inveneris diagonios residuos ant angulos oppositOS, nihil effecisti.
+³ ” Datis tribus lateribus pro inveniendo angulo, datur AB , sinus comple-
+menti semilateris unius, AG alterius semilateris, BC semisubtensa lateris tertii.
+:Hinc in rectilineo angulus BAG quaeritur. Et jam ex EA, AD secantibus
+, 'duorum semilaterum datis cum invento EAD angulo, quaeritur ΕΙ). Tertio
+Δ ex ΕΙ) et 2 tangentibus duorum semilaterum quaeritur angulus imperatus,
+¹ via valde prolixa Aliter: AB, AC sit radiuS, BC subtensa lateris tertii, ΑΕ
+· necans lateris unius, AD alterius Dantur ergo ΑΕ, AD, secantes duorum
+laterum circa quaesitum et EAD angulus, quem metitur latus tertium, hinc
+v ¹liabetur ΕΙ), quod cum tangentibus 2 laterum prodit quaesitum angulum.
+Triangulum esto laterum 31⁰, 320, 330. Quaerendus est angulus inter
+810, 320. Sum in hac suspicione, quod perpendicularis a fine tangentis et
+secantis lateris majoris, demissa ad finem tangentis et secantis lateris minoris,
+eadat perpendiculariter ad utrumque.
+
+ 
+
+Negotium in hoc consistit, ut probetur in omni tetrae‘dro, cujus unus
+angulus solidus duobus planis rectis clauditur, tertio variO, alter etiam angulus
+talis necessarius evadit.
+
+Tangeris 320 - 6248693 -- secans 11791783
+
+Tangeris 310 - 6008606 - secans 11666334.
+
+Ut radius ad tangentem 330, ita secans minor positus ad perpendicularem
+‚putatam
+
+Tangens 330 = 6494076; tg. 330 >< sec. 31⁰ = 7576204.
+
+Sit tg. 31⁰ = 10000000, erit 7576204 :12608921 = tg 51⁰ 34‘ 57“.
+
+——-—
+
+13*
+

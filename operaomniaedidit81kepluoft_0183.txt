@@ -1,0 +1,72 @@
+1. Mathematica. 169
+
+rum gnomones sunt quaternarii ordine multiplices Sic imparium quadrato-
+
+rum augmenta sunt multiplices octonarii plus unitate. Nam primus est 1, alter
+
+9· differentiae inter 1, 4,.· 9 sunt 3, 5, summa 8 et primus 1 sunt 9· sic
+inter 9, 25 sunt 16. Quare compendio investigari possunt casus sic:
+1. 9. 25. 49. 81.121
+1. 3. 5 7 9. 11
+4,5. 112, 13,12425.140,41. 160, 61,
+
+’ Scilicet omnes impares possunt adscisci pro minimis lateribus hujus trianguli.
+
+Maxima unitate differunt. Ergo series minorum talis. 3. 5. 7. 9. 11. 13.
+Eadem sc. series est mediorum laterum, 4. 12. 24. 40. 60. 84.
+quae gnomonum in paribus quadratis, 8. 12. 16. 20. 24.
+4 4 4 4
+An compendium inveniri possit inquirendae radicis ex gnomone?
+Propositus quilibet numerus, cujus est quaerenda radix, aut est impar
+
+> aut par. Et si impar, aut habet totam summam omnium antecedentium gnomo-
+
+num, aut deficit aliquid ultimo gnomoni. Quare si compendiose haberi posset
+. summa gnomonum, proxime minor et proxime maj0r, perfectum esset negotium.
+
+- (Ia aubi vide.)
+
+Jam considera, an non quilibet gnomon causa sui ordinis prodat statim
+suam radicem? Gnomon quartus 9 est quadratus primus impar, duodecimus
+est secundus impar. Series gnomonum talis:
+
+3. 5. 7 9. 11.1.3 RadiceS,
+
+9. 25. 49. 81 121. 169, Quadrati,
+
+4. 12. 24. 40 60. 84. Gnomones,
+posteriores 4. 8, 12. 16. 20. 24.
+
+4 4 4 4 4
+
+Exempli causa: 25 est duodecimus gnomon, quod facile videri potest
+. deminuta unitate et residui dimidio sumto, Ejus radix est secunda imparium.
+Nota erg0, quod quotiens debet semper dividi posse in 4, si assumtus gnomon
+sit quadratus.
+
+ltaque quotientes ordine divisi per 4 dant talem seriem. 1, 3, 6, 10,
+· 15, 21, dant sc. trigonicorurn seriem, quorum incrementa sunt series nume-r
+rorum naturalis. Ergo si gnomon quadratus est, divisus proxime minor par
+per 8, constituit trigonum, cujus latus duplicandum et auctum unitate facit ,
+
+2 radicem gnomonis. Ut 169; 168 : 8 z 21, trigonicus index 21, cujus latus 6,
+· duplum plus unitate est 13 radix. Esto jam 1613 160: 8 = 20, qui non est
+
+ 
+
+trigonicus. Esto 1443 (z 8) z 18, quinon est trigonicus, sed loco medio. Esto
+10ος (ι 8) prodit 121, qui non est trigonicus‚ sed loco medio, Totum ergo
+artificium consistit in his 2 problematis: 1) Dato quolibet numero judicare,
+sitne trigonicus necne? 2) Dato quolibet trigonicO, invenire latus. Trigonici:
+1, 3, 6, 10.15‚ 21, 28, 36, 45, 55, 66, 78, 91
+1.;1 1 33 2 3, 2 5; 3 5· 3 73 4. 7: 4 93 5.9;5,11;6.11;6.13;7.13.
+Cum ergo omnis trigonus sit semiquadratum, crit ergo duplus, minus
+¹ uno latere, quadratus. Nota, quod omncs trigonici oriuntur a lateribus pro-
+portionis duplae pius vel minus unitate. Nempe singuli in serio naturali nu-
+= merorum creant duos trigonicos, sed non ipsi ut b uses illorum unum cum duplo
+[ minus 1, alterum cum sui duplo plus 1. Nota amplius, quod quartus quis-
+que est novenarii multiplex plus uno, interjecti bini sunt ternarii multiplices.
+, Et quidem novenarius curn singulis trigonicis ordine facit ulteriores quatuor
+ῑ quosque: 1, 3, 6, 10, 15, 21, 28, 36, 45
+‘1⁹6’ 28, 55, 91, 136, 190, 253, 325, 406.
+

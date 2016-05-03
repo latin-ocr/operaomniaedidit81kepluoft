@@ -1,0 +1,67 @@
+194 Collectanea ex codicibus PulkoviensibuS.
+
+30. Talia tria latera quadrilatera septem angulis uni sphaerae sunt in-
+scriptibilia.
+
+31. Tria triangula una communi subtensa, seu diagonio hexaedri, tribus
+aequalibus quadrilaterorum diagoniis et tribus aequalibus reliquorum quadri-
+laterorum commissuris inclusa, eidem sphaerae sunt inscriptibilia, quinque scili-
+cet angulis
+
+32. Hinc affirmatur id, quod ex parte num 23. quaesitum erat Omnes
+scilicet 8 anguli quadrilateri hexae'dri, quod uno solido trium aequalium la-
+terum et tribus circa illum solidis, quorum singuli binos rectos planos habent,
+constat, eidem sphaerae sunt inscriptibileS.
+
+33. Omnia sex quadrilatera circulis sunt inscriptibilia.
+
+34. Omnia sex quadrilatera binos oppositos binis rectis habent aequales.
+
+35. An quemlibet angulum planum metiatur in opposito solido angulus
+planus ille, qui est complementum anguli obtusi ad semicirculum?
+
+36. Si bini anguli circa CFI essent recti, commissurae illorum 3 plano-
+rum essent perpendiculares ad tria prima plana3 ex 26.
+
+37. Haec si sic haberent, quia diagonii trium primorum planorum sunt,
+inaequaleS, communis vero tribus triangulis diagonius ipsius hexae'dri, hinc
+ergo hae commissurae fierent inaequales,
+
+38. Falsum ergo‚-seu negandum aut vicesimum primum aut 22 quaesitum.
+
+39. Per quaecunque duo puncta sphaerae tres vel plures aequales cir-
+culi scribi possunt, si sunt opposita in sphaera.
+
+40. Bini ,ergo anguli talium hexae'dron sunt in oppositis sphaerae locis,
+seu diagonius sphaerae est diagonius talis hexae‘dri.
+
+41. Nullum tale hexae'dron in hemisphaerium autminus fragmentum in-
+scribi potest. '¹
+
+42. Αη ἰη tribus residuis planis, ut trini diagonii ad oppositum solidum'-
+tendenteS, sic et trini residui fiant aequales?
+
+43. Ponatur id sic esse et dentur angulis nomina A, B, Ο, Ι), F, G, Ι, K'
+<figura deest). Cum ergo KB, DB, ΟΒ sint aequales et ΙΟ, CF, FI ponantur*
+aequales: erunt quae sub KB et CI, sub DB et CF, sub ΟΒ et FI aequalia?
+Sed quod sub KB et CI est aequale duobus sub ΚΟ, IB et KI, ΟΒ. Et·
+quod sub DB et CF est aequale duobus sub DC, BF et DF, CB. Et quod¹
+sub ΟΒ et FI est aequale duobus sub GF, BI et GI, BF. Ergo quae sub,
+ΚΟ, IB et KI, CB, item quae sub DC, BF et DF, ΒΟ, et quae sub GF, 131.;
+et GI, BF essent aequalia. Sunt autem quadrilatera haec: BFGI, ΒΙΚΟ,1
+BCDF, quorum aliqua latera sunt certo aequalia, aliqua communia. 1
+
+In primo BF FG GI IB r ²
+In secundo respondent ΙΚ IB ΚΟ ΟΒ j
+In tertio BF DF CD ΟΒ. 2
+
+Hinc necessario aequalia, quae sub aequalibus, At haec sunt disseparata,
+nec confirmantia se mutuo nec refutantia
+44 Cum A, Ο, sint opposita puncta sphaerae et ADC major circulus
+quam ADF, BF, ΒΟ, BI certo non sunt aequales, Hinc negatur 22.
+“ 45. Cum ΙΚΟ planum faciat rectum cum ΚΑΟ plano et CDF cum eodem
+CDA, lineas quoque omnes horum planorum cum aliqua ex KDA rectum facere
+necesse est3 sed ΟΒ linea est utriusque plani extrema, et qualiscunque esset
+inclinatio ΟΒ lineae ad KAD planum, demissa perpendicularis ex B in lineam
+CA caderet, quia ΚΟ, DC aequales et inclinatio BCD et ΒΟΚ aequalis ad
+

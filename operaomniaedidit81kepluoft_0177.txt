@@ -1,0 +1,67 @@
+1. Mathematica. 163
+
+, quod medius numerus debet esse primuS, ceteri omnes per 2 usque ad extrema
+· multiplices, Nam si non primus, plures essent multiplices, sin primus maj0r
+’, dup10, jam deficeret summa, cum, si duplus praecise sit, deficiat3 sin minor
+,. duple, amplius quam medietate, jam tantundem excederet summa. Ut: 1361,
+
+68, 34, 17, 8, 4, 2, 1 (summa 134); 20], 10, 5, 4, 2, 1 (summa 22).
+
+An vero in aliis proportionibus non etiam talis aliqua compensatio in-
+iri queat? (811, 27, 9, 3, 1: summa 40 [81—-40= 41]; 271, 9, 3, 1:
+Summa 13 [27—13 = 14].)
+
+Igitur in tripla proportione semper colligitur dimidium, uno minus, Quod
+ut compensari posset, opus sortasse foret proportione sesquialtera. At tune ii
+
+³ numeri fingerentur, qui alios etiam admitterent divisoreS. Dupla se ipsam
+
+juvit, tripla hoc non potest, semper n. ad dimidium venit. Sed hoc artificium
+habet, quod ex ea quaeri potest numeruS, qui praecise aequat sui ipsius di-
+midium, fortasse, inquam. Ut si medius sit ex primis numeriS, triplo maj0r
+
+s proximo ex ternariis uno minuS, tum si accedat, ut sit unus insuper ex com-
+
+positiS, per dupl'ationem partes sesquitotum facient. (Nota quod hoc fieri non
+
+ᾖ potest, nam est oppositum in adJectO. Nam si compositi ex ternariis, igitur
+ζ semper impareS‚ qui unitate diminuti fiunt pareS‚ ergo non primi.) Sed nota hoc:
+
+ι Nam hi etiam triangulares fiunt. Hujusmodi pauci 3, ’ξῖ 24, ἐξ (Ιᾷ)
+¹ sunt: 3, 9, 27, 81, 243, forte unicus g? 6.
+Si {amen ponamuS, 8 esse primum: ΞΞ- Ξ.
+3³ ’Ξῖ
+'1—2‘. Bene. 1·
+
+36.
+
+, , Sed quare perfecti simul sunt triangulares? Quia necessario eundem
+< ,servant ordinem, quem triangulares a basibus imparibus orti, electione adhibita.
+Ἰ ΝΒ. Numeros imparium basium¹ collectu facile est ex tabula parium,
+facta collatione. Nunquam triangulares sunt primi. Verum ex iis, quae supra
+¹ diximuS, consideremus et hoc, si minor sit unitate maj0r dimidio majoriS, ut
+
+32, 4 pro 2 sit 3.
+
+ 
+
+12 5. 8. 40 40 Quadruplam tenta. 1. 4. 16. 64
+
+6 ff 4 21
+4 10 „¹- ἵδ-
+3 s 21
+ξ 5 Colligunt partes ᾖ, si summa sit minus·
+ἓ
+1
+
+'rriangma rectangula laterum rationalium in primis numeris.
+
+Oriuntur ex serie quadratorum:
+1. 3. 5. 7. 9. 11. 13. 15. 17. 19. 21.
+1. 9. 25. 49. 81. 121. 169. 225. 289. 361. 441.
+8. 16. 24. 32. 40. 48. 56. 64. 72. 80.
+8. 8. 8. 8. 8. 8. 8. 8. 8.
+
+Nam quoties differentia duorum proximorum est quadratus, toties datur
+11·
+

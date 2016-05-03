@@ -1,0 +1,69 @@
+242 Collectanea ex codicibus Pulkoviensibus.
+
+Hoc probat0, cum summa temporum tanto major sit summa justa, quanto
+1major est unum tempus initio assumtum tempore justo, facile prodit, quantum
+pro justo tempore debeatur mediocri distantiae, minus scilicet quam 1⁰.
+
+Itaque hoc constituto summam distantiarum nonaginta multiplicavi in
+tempus distantiae uniuS, et prodiit anomalia simplex, respondens 90 gradibus
+eccentri, fuitque 910 10‘ 20⁶. Excessus 10 10’ 20” priori parti aequationis
+proxime aequalis.
+
+Ex hoc experimento, cum sinus aequationis maximae sit 3600, dimidium
+1800 erit eccentricitaS. Exstruxi igitur distantias et aequationeS‚ propter com-
+
+pendium aliquod, ad singulos gradus anomaliae coaequatae hac sacili methodo, ss
+Sinus omnes ordine multiplicavi in eccentricitatem 5 cyphris demtis, Ι,
+
+quod in hac 1800 propter aptitudinem numeri etiam compendiose facturn.
+Nam addita cyphra habetur sinus decuplum, simplo ablato noncuplum, quod
+est dimidium de 1800.
+
+Cum his 90 numeris excerpsi 90 aequationum arcuS, qui omnes bis
+sumendi sunt, propterea quia semper duo gradus anomaliae coaequatae sunt
+ex centro Solis sibi oppositi, connexi ergo cum centro eccentrici faciunt iso-
+sceles, cujus uterque angulus aequatio est illius loci.
+
+Postea sinus complementi aequationum nonaginta excerpsi illisque et
+addidi et ademi numerum ex sinu complementi anomaliae, observata casuum
+varietate. Prodiere distantiae, quarum binae oppositae sunt, duplum comple-
+menti aequationis sinus.
+
+Hoc pacto eccentricus dividitur⁰in 360 partes inaequales. In quibus
+quas planeta moras conficit, eae comparari legitime non possunt, cum sint par-
+tium inaequalium. Sed cum duae partes oppositae officiant duas integras,
+sc. 2⁰, tempora binarum oppositarum comparari possunt. Sic igitur egi. Sinus
+versos omnium aequationum collegi, summam subtraxi a 360 radiiS. Relicta
+fuit summa omnium distantiarum minor quam 360, quia ut prius 180 trian-
+gula constituuntur, quorum 360 latera longiora sunt quam 180 bases. In'de
+hujus summae comparatione ad 360 anomaliae simplicis sacta, prodiit ano-
+
+malia mediocris distantiae debitae. In hoc videor impegisse, Nam etsi 360 fs
+
+debentur illi summae, non tamen debentur illi ad portiones aequaleS. Nam
+ipsae partes eccentrici sunt inaequales, ergoet morae. Sed tamen nullus est-
+
+error. Nam ideo sumsi binas partes oppositae, ut divideretur hic quoque
+eccentricus in 180 aequalia.
+
+At profecto jam in successu impegi. Nam ut totus 100000 (dixi) ad
+1⁰ 0‘ 18¹1 23⁰2 ita differentia quaelibet inter longiorem et breviorem distan-
+tiam oppositas ad portionem temporis addendam et subtrahendam prius in-
+
+ventae³duplici morae jam dimidiatae, ut habeatur, quantum planeta in longiori f
+
+distantia moretur, quantum in breviori. Error hic esse videtur, quod distantia
+
+brevior ad breviorem partem eccentrici valet, *itaque eccentricus ille semicir-
+
+culo aliter divisus est.
+
+Praeterea incommoditas est. Prodit enim tempus debitum gradui ae-
+quali, quod proportionale demum aptandum illi parti, ad quam est distantiat
+Denique aliter operari nequimus, nisi per singulos eccentrici gradus et singulas
+distantiam, non aliquot conjunctas, At si eccentricus dividatur per aequalia,
+per conjunctas distantias possimus operari. “ ·
+
+ᾗ Videtur esse regula 5 terminorum, sicut sc. habet mediocris 'distantia
+ad sui gradus tempus, ita alia ad sui graduS. 100000 per 1⁰ 0‘ >18⁴⁴ 23⁰³
+

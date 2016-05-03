@@ -1,0 +1,82 @@
+ 
+
+Ι. Mathematica. · 165
+
+Itaque duo impares proximi: Ἴ
+1. 3. 5. 7. 9. 11. 13. 15. 17. 19. 21
+1. 9. 25. 49. 81. 121. 169. 225. 289. 361. 441.
+
+'-3i‘13T7545335‘455‘455*‘565 64. 72. 80
+888888888
+
+32) Imparia quadrata crescunt augmentis compositis ex binis iis aug-
+mentis, quibus quadrata crescunt ordine simplici.
+
+33) Compositus ex 2 imparibus et paribus habet pareS.
+
+34) Ex 33 et 10. Imparium quadratorum ordine augmenta sunt paria.
+
+35) In comparatione binorum augmentorum cum binis tantum bini aliis
+binis sunt majores , quoties singuli a singulis distant binario con-
+junctim.
+
+36) In ordinatione imparium duo augmenta composita sunt ex 4 conti-
+nuis augmentis superiorum.
+
+37) Distant igitur illic singula a singulis 4 binariis.
+
+38) Augmenta igitur hic crescunt per 8.
+
+39) At primum augmentum est etiam 8. .
+
+40) Augmenta igitur hic sunt multiplices octonarii continue.
+
+41) At reliqua etiam quadrata sunt multiplices octonarii.
+
+42) Ergo hic dantur casus. ·
+
+43) Quadrati multiplicium ex quaternario sunt multiplices octonarii.
+4: 16 sunt bis 83 12: 144 sunt 18⁵⁶⁸ 83 20:400 sunt 50⁵⁰⁸ 8 etc.
+
+44) Omnium quaterniorum et octonariorum eorumque multiplicium qua-
+drata sunt in augmentis imparium.
+
+45) Ergo a 4 ad 8, 12, 16 etc. quintus quisque fit minimus casus dati.
+
+Praeceptum.
+
+Numerum hac lege pro minimo susceptum divide per 4, quotiente mul· ·
+tiplica susceptum, qui diminutus unitate dat medium, auctus dat maximum.
+Esto minimus 4, quod divide per 4, venit 13 semel 4 sunt 4⁹5. reliqui itaque
+3, 5. Sic 8: 4 in 8 bie, bis 8 sunt 16, ergo 15, 17. Sic 400: 4 in 400,
+100¹⁶⁵, 100¹0⁸ 400 sunt 40000, ergo 39999, 40001. Vel: Numerum hac lege
+susceptum pro minimo divide per 2, quotiente multiplica susceptum et prodibit
+summa utriusque majoris, quorum medius maximo binario minor est. Esto 83
+per 2 sunt 4, quater 8 sunt 32, summa maj0rum, quae sic dividatur in 2,
+ut unus binario sit major altero: sic 15, 17. Velz Multiplica binos impares
+in invicem, babebis medium3 maximus est binario major3 reliquum inde habe-
+bitur ex additione imparium multiplicantium. Hoc in primo patitur excep-
+tionem propter alia ejus privilegia3 nam in 3, 4, 5, si is traducatur in hunc
+secundum ordinem, 3 est instar medii, 4 instar primi, ergo 1, 3 est 3, 5 major 4.
+
+1 mult. in 3 est 3 adde2.. 5 4 Uno verbo, paris propositi (a quaternario multi-
+3 ,, ,, 5 „ 15 „ 17 8 plicis) partes impares medio proximas in se multi-
+5 ., „ 7 ‚, 35 ‚, 37 12 plica pro medlo.
+
+7 „ ,‚ 9 ,, 63 ‚‚ 65 16 Quid si binis intermissis ordo struatur?
+
+9 , ‚, 11 „ 99 ,‚ 101 20 1. 4. 7. 10.13.16.19.22 25 28 “
+1 , ,, 13 ,, 143 „ 145 24 1 16 49. 100. 169. 256. 361. 484. 625. 784
+
+15 33. 51. 69. 87 105. lm
+1818 18 19 19 19 19 19
+
+Quaeritur, an in his augmentis occurrat qua-
+dratus aliquis?
+
+1
+
+ 
+
+ 
+

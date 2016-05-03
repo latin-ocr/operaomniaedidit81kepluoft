@@ -1,0 +1,60 @@
+258 collectanea ex codicibus PulkoviensibuS.
+
+add„ ascendens habet subt„ intellige mediae vel temporis ; si jam descendens
+habet perigaeum solutae, minuit exsors aequationem, minuit igitur etiam mediam
+aequationem add. affectam3 et vicissim auget alterius semicirculi subtrahendam,
+id estvminuit et ipsa mediam. Ecce quam diu apogaeum est in ascendenti
+semicirculo,¹ exsors per omnem distantiam ᾧ 3 Θ habet respectu mediae titulum
+eundem. Posset igitur exsortis titulus imponi distantiae Q a Θ. At quia sic
+bis aequaretur illa anomalia per menstruas, et quia alias aequatio antequam
+utaris est corrigenda, ideo relinquatur exserti titulus respectu aequationis. ,
+Quamdiu igitur descendens argumenti habet perigaeum solutae (habet
+autem id tantum per quadrantem inferiorem, alias si haberet per quadrantem
+superiorem, fieret ascendens), minuit exsors aequationem descendentem, auget
+ascendentem, id est a distantia Θ ab apogaeo ᾧ 0 ad 90, sic etiam a di-
+stantia σο Θ ab apogaeo Q 0 ad 90, h. e. a distantia Θ ab apogaeo Q 180
+ad 270. Et quamdiu descendens argumenti habet apogaeum solutae (habet
+autem id tantum per quadrantem superiorem), auget exsors aequationem des-
+cendentem, minuit ascendentem, id est a distantia Θ ab apogaeo Q 270 in
+360 vel 0, et a 90 in 180. Ergo superponantur dist. Θ ab apogaeo Θ tituli
+
+gemini sic. S A 'A s, Imo superponantur ipsis exsortibus, quia ex-
+ἐθίζῃ. 360180. cerpuntur per dist. Θ3ῐ) 3110833οΦ. Tunc
+
+ 
+
+ 
+
+270. 90. prior titulus valet in descendenti seu primo
+semicircu10, posterior in altero ascendenti, et respicit aequationem ipsam. Et
+quia argumentum incipit a Θ, quamdiu Θ est ab apogaeo ᾧ inter 270, 0, 90,
+ergo hic argum. desc. est Luna crescens. Ita conficitur, ut a 0 in 90 cres-
+cente & valeat S, decrescente A, et a 270 in 360 crescente Q valeat A,
+decrescente S. Sic quia arg. incipit ab 00 Θ, quamdiu Θ est ab apogaco ᾧ
+inter 90, 180, 270, ergo hic argumenti descendens est Luna decrescens, Ita
+conficitur, ut ab 180 in 270 decrescente Q valeat S, crescente A, et a 90 in
+180 decrescente Θ valeat A, crescente S. Ita valent tituli per semicirculos
+dist. Θ ab apogaeo Θ, mediante conditione Lunae C vel Q.
+
+ 
+
+Emendatior ordinatio. 24. Nov. 1621.
+
+Etsi pulchrum, ut et formetur argumentum et eo excerpatur aequatio
+menstrua cum titulis Sub. Add. ut in soluta, propterea quod inculcamuS,
+
+menstruam hic similem esse solutae: at interim plurima alia differunt, ut, quod ¹
+
+non constans quantitaS, quod per logarithmos computanda, quod per exsortem
+et per diurnum corrigenda, quod titulus non ipsi sed margini superponendus,
+Quid magnum igitur, si etiam in hoc differat, quod titulus plane ne argumento
+quidem superponatur, sed distantiae Θ ab apogaeo Θ, nec formetur argumen-
+tum per totum, sed tantum per aequationem opticam corrigatur dist. Q a Θ,
+et addatur vel auferatur, et sic per hanc correctam excerpantur tantum scru-
+pulorum logarithmi.
+
+Quantisper igitur dist. Θ ab apogaeo Q est inter 90, 360, 270, Luna
+crescens habet (antiqua forma) subtractoriam, decrescens adjectoriam. Et quantis-
+per dist. Θ ab apogaeo ᾧ est inter 90, 180, 270, Luna descrescens habet
+subtractoriam, crescens adjectoriam.
+

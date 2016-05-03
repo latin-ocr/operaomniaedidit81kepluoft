@@ -1,0 +1,61 @@
+182 Collectanea ex codicibus Pulkoviensibus.
+
+rum, sie circumscriptus huic ad tangentem centra triangulorum. Ut 8506508
+ad 7946546 sic 10000000 ad 9341723, quantus est tangens in dodecaedro
+media puncta laterum. Sic respondet rhombico hujus generis. Et in genere
+de his duobus verum est: ut circumscriptus angulis ad inscriptum planis rhom-
+bicis, sic circumscriptus angulis misti ad inscriptum plano maximo, Sed jam
+vice versa, ut inscriptus planis maximis ad inscriptum planis minimis, sic
+circumscriptus angulis rhombici brevioribus ad circumscriptum angulis longio-
+ribuS‚ et contra, ut inscriptus plano rhombico ad circumscriptum brevioribus,
+sic inscriptus minimis planis ad circumscriptum angulis,
+
+Quare ut cubus octae'dro‚ dodecaedron icosae'dro aeque altuS, eidem etiam
+inscriptibilis est et circumscriptibiliS, ita verisimile et hic est, aequalitatem
+permutatam orbium trahere etiam rationem inscriptionis. Utin rhombo cubico
+anguli acutiores 6 iique et altiores, anguli obtusiores 8 et depressi, plana vero
+12, latera 24, sic in misto cubico plana quadrata 6 et propiora centr0, trigo-
+nica 8 et remotiora a centro, anguli vero 12, latera 24. Hinc si rhombum
+misto velis inscribere, acutos apta centris quadratorum, obtusi spectabunt ad
+centra trigonorum, sed non tangent, planorum vero rhomborum centra specta-
+bunt se superstantes et tegentes angulos, Si contra mistum rhombo inscrip-
+seriS, 12 misti angulos apta 12 centris planorum abeuntque proxime ab in-
+vicem obtusi et triangula, longius acuti et quadrangula.
+
+Idem esto de rhombo dodecaejdri et misto judicium. In rhombo anguli
+acutiores et inscriptiles 12, obtusiores 20, plana 30, latera 60. In misto
+quinquangula 12, triangula 20, anguli 30, latera 60. Inscriptio eadem.
+
+Rhombi respondent primariis, quia sunt augmenta primariorum et sccun-
+dariorum mistorum. Mista respondent secundariis, quia sunt diminutiones
+primariorum et secundariorum, et quia cubus primarium associat se rhombis,
+octae‘dron secundarium mistis.
+
+Sima oriuntur ex misna, cum tota cadunt latera et anguli sic, ut loco
+
+singulorum angulorum bina veniant triangula, aequalia et similia residuo ex -
+
+priori triangu103 et id quidem residuum itidem est regulare. Item situs angu-
+lorum planorum variatur et intorquetur, sed inclinatio manet. Sed in vere
+mistis etiam triangula tota cadere necesse est et pro iis profundiora antiquis ,
+parallela constitui eaque et ipsa oblique secari. Fiunt quinquelinearium an-
+gulorum. Simum tetratetraiidri, h. e. octaedri, est icosae‘dron. Quod fit in
+octae’dro, facile transfertur in tetrae'dron, designato minori plano per sectio-
+nes mediaS.
+
+Si anguli plani ieosae’drici competerent in media latera, tunc latus ico-
+saedricum esset dimidium octaedrici, sc. 7071068. Sin autem in punctum,
+quod secat ὲ de ξ, tunc >essent perpendicularia et quantitas 8164966. Sed
+quia ex proportione inscriptorum latus 7639320 sequitur, ergo intermedio loco
+cadunt anguli plani. Cum autem proportio extremi et medii sit inter ᾖ et -ξ,
+adhuc de illa suspicio est.
+
+Si quaterna octae'drici anguli latera secantur proportionaliter, sic uthina
+et bina opposita habeant alternis longiora et breviora latera in unum solidum -
+concurrentia, et puncta connectantur 24 lineis in planitie, 6 lineis sub angulis,
+tunc in octae'dro descriptum est icosae'dron. Nam quia triangulum inter oppo-
+sita latera et ductam lineam aequicrurum est, ergo ut crura unius ad crura
+alterius, sic basis (linea ducta) unius ad basin alterius sive lineam, quae extra
+schematographiam duci jubetur ad demonstrationem perficiendam. At crura
+sunt in nota et proposita proportione, ergo et bases. Quare demonstrativa ad
+

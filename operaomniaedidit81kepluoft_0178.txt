@@ -1,0 +1,69 @@
+164 Collectanea ex codicibus Pulkoviensibusi.
+
+casuS. Ut 9 et 25 vicini differunt 163 hinc radices 3, 4, 5- Ita 25 et 159
+differunt 144: ergo 5,·12, 13.
+Demonstratio z
+
+Ο. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20.
+O. 1. 4. 9. 16. 25. 36. 49. 64. 81. 100. 121. 144. 169. 196. 225.
+0
+
+1. 3. 5. 7. 9. 11. 13.15.17.19. 21. 23. 25, 27. 29.
+.2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2, 2.
+
+1) In serie numerorum sunt alternis pares et impares naturaliter.
+2) Facti a pari pares sunt vel uno vel utroque.
+3) Facti afduobus imparibus impares sunt. 4) Ergo radicis paris par
+quadratum. 5) Impar1s impar quadratum.
+6) In serie quadratorum sunt alternis par et impar.
+7) Cum augetur quadratum, augetur per gnomonem.
+8) Gnomon ambit duo latera. 9) Augmentum est duplum lateris (vel
+radicis) plus unitate.¹
+10) Augmenta omnia sunt ideo imparia. 11) Paribus adjectis compositi
+discrepant, ut simplices.
+12) Numerorum in ordine naturali duplices distant binario,
+13) Sic pares ordine distant et surgunt binariO.
+14) Ex 12 et 9. Quadratorum augmenta crescunt binariO.
+15) Differentia paris et imparis est impar. 16) Ex 15, 6. Omnes diffe-
+rentiae quadratorum se subsequentium sunt impares
+17) Ex 16. 13. Imparium ordo est ordo augmentorum quadratorum.
+18) Omnia imparia quadrata tandem occurrunt in augmentis. .
+19) Quoties igitur conjunctorum duorum differentia est quadratum, toties ..³
+datur casus, (¹⁶’9²⁵· ¹⁴⁴45¹ffi³0> J
+20) Semper minor est radix sic inventa per quadratum inter augmenta.
+
+-ι ,;...,.
+
+Praeceptum.
+
+Impari quadrato (quem numerum minimum poscis) unum adime: residui
+dimidium est medius, auctum unitate, est majus. Minimus esto 3, 93 9 minus ’
+uno 8, dein 4 mediuS‚ adde 1, fit 5 maximus.
+
+21) Ex 20. Minimus numerus erit semper impar.
+
+22) Ex 19. 21. Medius erit par, maximus impar.
+
+23) Unitate tamen major maximus minori.
+
+24) Ex 9. et 20. Quadratum minimi est ordine integro numerorum proxi-
+
+mum post duplum medii.
+
+25) Ergo unitate diminutum est duplum medii.
+
+26) Ex 19. Maximus hic est unitate major medio.
+
+Hactenus igitur duo fuerunt proximi in ordine. Quaeritur, an duo pares
+proximi cum minori aliquo generent alias species?
+
+27) Differentia parium est par.
+
+28) Ex 4 et 27. Parium differentia quadrata est paris quadratum.
+
+29) Ex his duo soli pares esse non possunt, sed aut 1 aut 3.
+
+30) Tres pares sunt inter se compositi.
+
+31) Duo igitur pares proximi nullam dant speciem.
+

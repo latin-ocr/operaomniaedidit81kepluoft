@@ -1,0 +1,63 @@
+178 Collectanea ex codicibus Pulkoviensibus.
+
+cluduntur vel regularium‘vel Archimedeorum prismata horumque similia infinita,
+quae tantum ex una parte magnam habent basim. Secundo zonarum duo in-
+finita genera ex quadratis et triangulis, quae tantum 2 locis magnas baseS,
+alibi puram habent zonam. Archimedea igitur sunt 13. Omnibus accidit nova
+sectio; cubi namque mutilatio gignit pyramida, pyramidis — octae'dron. (Nul-
+lum ex impari, praeter 3 et 5, quia non coe‘unt sursum, ex 3, 4, 5, 6, 8, 10,
+nihil ex 12 nec ullis aliis). Sic ex his 5 mutila veniunt. Deinde quaedam
+mista sunt ex binis, eaque 2. Tum haec rursum mutilata quasi, etiam '2, et
+haec deformia ex 3 lateribus, Amplius quaedam distractis planis propriis et
+completo hiatu, vel triangulis 2, vel quadrangulis 2.
+
+His 18 accidit congruere in cavum. Etiam cavum in illa congruit, sed
+
+in 5 simpliciter, in 13 tantum ad propinquiora latera.
+Ex data specie anguli numerus laterum venit. Tria quadrata: est spe· ³
+cies solidi, ergo trilateralis, plana vero sunt quadrilatera. Numerus igitur Α
+laterum est 12. Tria triangula: angulus est austerus, planum itidem3 hic
+numerus 3 sufficeret utrique, sed unum tautum daret triangulum et angulum.
+Quare sumitur proximus 5. Tria quinquangula, angulus trilinearis, basis quin· ,
+quelatera. 3 >< 5 est 15, sed non potest esse impar, est ergo 30 proximus. s
+Quatuor triangula, 12, 5 triangula 15, et 30, ex lateribus bases· Nam unum latus ’ἶ
+commune est 2 basibus, ergo 12 latera sunt 24 et 4 faciunt planum, ergo 6 etc. f
+Ad comparationem rectorum cum curvo pertinet adscriptiO. Et veniunt inter
+cetera etiam trapezia. Cum autem non omne trapezium sit adscriptile, primum ¹
+experiamur in regularibus trapeziis, quae duo opposita latera parallela habent, ;
+et binos non oppositos angulos aequales, item duos oppositos simul sumtos ,ζ
+reliquis duobus aequales, Simile quid habebunt irregularia, sc. ut duo oppo-
+siti simul sumti reliquis sint aequaleS, h. e. recti 2. .
+De curtis. Species 5 sunt a toti· j
+dem regularibus. Dimensionis principium
+G in cubo curto, inde quod manet idem in· “.
+scriptus antiquis lateribus et quod pyra-‚
+midis anguli cubici resecti dimensio habetur. ⁴
+A? Quaeritur ergo latus octanguli, quod qua-
+
+drangulo inscribitur vel quod fit ex curto ’
+quadrangulo. EG latus quadranguli, ΟΒ ἑ
+octanguli, quibus sunt aequales CD, AB.
+Cum ergo BA possit ΑΕ, ΕΒ, possit vero
+et EG, ergo AE potest dimidium EG. Sub-
+
+mg. 1.
+
+trahatur EA vel ΕΒ ab EG, restabit BG,-
+quod est aequale ΟΕ, id ab ΕΒ subtrac—
+tum relinquit CB latus. Porro cum GH„
+diagonios possit duplum HE et HE dup- κ
+lum EA, quare HG potest quadruplum ΕΑ.
+
+Est ergo EA dimidium diagonii HG. {gzlffggssggg
+
+NJ
+CB = 4782926.
+
+Porro, cum tetrae‘dron tectum sit 4 angulis cubicis, a quo demissa perpendi--
+cularis per centrum tetrae'dri in centrum figurae transit, ergo radius inscripti..
+tetraedrO, demtus a radio circumscripti, relinquit altitudinem cubici hujus an-
+guli. Tetrae‘dri inscriptus est ᾗ de radio circumscripto, ergo altitudo anguli
+
+ 
+

@@ -1,0 +1,74 @@
+III. Astronomica. 261
+
+venitur autem VN ex differentia ΝΟ et de· mg. 12.
+
+- clinationis Divide secantem declinationis
+
+ἃ (additis 5 cyphris) in secantem distantiae,
+
+restat secans VN, hunc multiplica in se- W
+cantem NL, factuS, abjectis 5 ultimis, est s
+
+secans VL. Ut sinus distantiae culminan·
+
+tis puncti ab horizontali eclipticae puncto
+
+est ad altitudinem ejus culminantis puncti,
+
+ita sinus distantiae sideris ab horizontali
+
+eclipticae puncto est ad sinum altitudinis
+sideris. Et jam in VPL dantur 3 latera
+et angulus VPL ex declinatione Lunae una
+operatione: ut VL ad VPL, ita PV ad
+VLP3 aufer VLP ab angulo eclipticae cum meridiano, restat quaesitus an-
+gulus⁸ Porro sciaS, non opus esse tabula angulorum eclipticae cum meri-
+dian0, nam sufficit tabula declinationis. Quia angulus decrescit cum discessu
+0⁰AE et poli eclipticae a meridianO, sed polus eclipticae discedit a meri-
+diano una cum punctis Arietis ab aequatore initio celeriter, fine tarde, ergo
+et anguli sic crescunt. Quando ergo vis scire angulum, aufer contrarii puncti
+
+declinationem a 90.
+
+Exemplum. Quaeritur angulus ad 30 ,6. Declinatio 3⁰ Υ· vel 27⁰ J(
+est 1⁰ 11¹ 49⁰3 900-10 11‘ 49⁶ z 880 48’ 11“: tabula (vol. VI. p. 242.) ex-
+hibet 883' 41¹ 42¹¹. Quaeritur angulus ad 30 Υ. Declinatio 3⁰ ὅ 230 29¹ 27“,
+complementum 660 30‘ 33“: tabula 660 30‘ 14⁰. Quaeritur angulus ad 10⁰ ὅ.
+Declinatio 10 (Ω 170 48’ 14”, compl. 72⁰ 11¹ 46¹¹: tabula 71⁰ 33‘ 27⁰. Cum
+ergo tabula discrepet, demonstratione nobis est opus Quando ex polo eclip-
+ticae perpendicularis in meridianum demittitur, illa est etiam illi quadranti
+perpendicularis, qui a polo eclipticae incipiens ad meridianum terminatur. Sed
+qui a polo eclipticae incipit quadranS, terminatur ad eclipticam, ergo qui ex
+polo eclipticae in meridianum terminatur quadranS, attingit ibi in meridiano
+eclipticam, proinde angulus inter utrumque quadrantem stat ad eclipticam eum-
+que metitur perpendicularis a polo eclipticae in meridianum. Est vero diffe-
+rentia inter utrumque angulum eclipticae cum circulo latitudinis rectum et cum
+circulo declinationis. Haec sunt certa. Superest ut demonstretur, sic discedere
+eclipticae polum a meridiam, ut discedunt ab eo puncta Arietis. Ergo ut sinus
+totus ad sinum anguli declinationis, ita sinus omnium arcuum ab Ariete ad
+sinus declinationum illorum punctorum. At etiam ut sinus totus ad sinum
+anguli declinationiS‚ quasi semidiametrum polariS‚ ita sinus cujuslibet arcus ad
+sinum consimilis arcus in polari: patet ergo propositum. Jam considera, data
+hora ex tabula ascensionum rectarum, datur punctum culminans et ejus decli-
+natio ex tabula declinationum, indeque altitudo et distantia a vertice cum an-
+gulo ad illud hemisphaerium, ubi est nonagesimuS, quare etiam distantia nona-
+gesimi a culminante per latus (sc. basin) et angulum adjacentem.
+
+Computetur parallaxis in circulo altitudinis ad omnes gradus altitudinis
+poli, verticali transeunte per omnes gradus aequatoris‚ etiam infra Terram.
+Cum volueris uti, quaere nonagesimum et ejus altitudinem. In margine sint
+
+ 
+
+ι’ 180 distantiae horariae ab aequatore, in srontc 90 altitudines poli, in area
+
+    
+
+ι i
+
+parallaxes ad 60‘ in horizonte. Investiga altitudinem poli eclipticae et distan-
+
+‘ tiam a nonagesim0‚ iilam in fronte, hanc in margine quaere, quod exhibet area,
+
+, , est parallaxis‚ corrigenda proportionaliter, si tota maj0r esse debuit.
+
